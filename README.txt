@@ -1,1 +1,1 @@
-Hi, This is jus an information file.
+Hi, This is just an information file.
